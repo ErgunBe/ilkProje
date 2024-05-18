@@ -1,0 +1,16 @@
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\bin\Debug\net8.0-windows\İlk_Proje.exe
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\bin\Debug\net8.0-windows\İlk_Proje.deps.json
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\bin\Debug\net8.0-windows\İlk_Proje.runtimeconfig.json
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\bin\Debug\net8.0-windows\İlk_Proje.dll
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\bin\Debug\net8.0-windows\İlk_Proje.pdb
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.Form1.resources
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.csproj.GenerateResource.cache
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.AssemblyInfoInputs.cache
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.AssemblyInfo.cs
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.dll
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\refint\İlk_Proje.dll
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.pdb
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\İlk_Proje.genruntimeconfig.cache
+C:\Users\VULKAN\Desktop\udemy\İlk_Proje\İlk_Proje\obj\Debug\net8.0-windows\ref\İlk_Proje.dll
